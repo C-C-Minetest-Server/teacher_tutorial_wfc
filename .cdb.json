@@ -1,0 +1,14 @@
+{
+  "type": "MOD",
+  "title": "Wang Fuk Court monthly memorial",
+  "name": "teacher_tutorial_wfc",
+  "short_description": "Shows a memorial message of the Wang Fuk Court fire every month",
+  "dev_state": "ACTIVELY_DEVELOPED",
+  "ai_disclosure": "ASSISTED",
+  "tags": ["education", "multiplayer"],
+  "content_warnings": ["horror"],
+  "license": "LGPL-3.0-or-later",
+  "media_license": "CC-BY-4.0",
+  "repo": "https://github.com/C-C-Minetest-Server/teacher_tutorial_wfc",
+  "issue_tracker": "https://github.com/C-C-Minetest-Server/teacher_tutorial_wfc/issues"
+}

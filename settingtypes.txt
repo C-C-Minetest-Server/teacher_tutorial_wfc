@@ -1,0 +1,6 @@
+# Timezone mode when determining the day a player is in.
+# Currently supported:
+# - hkt: Always use Hong Kong Time, which is UTC+8.
+# - server: Always use the server's local time.
+# - player: Use the player's timezone, guessed from the language used. DST is not considered.
+teacher_tutorial_wfc.timezone_mode (Timezone mode in date detection) enum player hkt,server,player
