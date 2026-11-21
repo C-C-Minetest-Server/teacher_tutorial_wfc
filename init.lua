@@ -83,7 +83,7 @@ teacher.register_tutorial("teacher_tutorial_wfc:wfc", {
                 "for Wang Fuk Court in Tai Po\" to assist residents and " ..
                 "support all relevant work, receiving contributions from " ..
                 "all sectors of the community. However, the government " ..
-                "misappropriated part of the relief fund to buy back the " ..
+                "bought back the " ..
                 "residential units against the residents' will and " ..
                 "threatened to forcibly do so by passing a new law, citing " ..
                 "that the apartment complex is no longer suitable to live " ..
