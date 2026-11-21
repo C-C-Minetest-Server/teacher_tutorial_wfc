@@ -77,6 +77,22 @@ teacher.register_tutorial("teacher_tutorial_wfc:wfc", {
                 "been missed due to governmental oversight."
             ),
             S(
+                "On the day of the fire, many Hongkongers helped assist the " ..
+                "affected residents; within a few hours, supplies were " ..
+                "sufficient. The government established the \"Support Fund " ..
+                "for Wang Fuk Court in Tai Po\" to assist residents and " ..
+                "support all relevant work, receiving contributions from " ..
+                "all sectors of the community. However, the government " ..
+                "misappropriated part of the relief fund to buy back the " ..
+                "residential units against the residents' will and " ..
+                "threatened to forcibly do so by passing a new law, citing " ..
+                "that the apartment complex is no longer suitable to live " ..
+                "in without publishing inspection reports. A public " ..
+                "petition calling for a thorough investigation and an " ..
+                "statutory independent Commission of Inquiry was suppressed " ..
+                "under the pretext of national security."
+            ),
+            S(
                 "The calamity, as well as all the losses of lives and " ..
                 "suffers, shall not be forgotten."
             ),
