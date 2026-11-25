@@ -104,6 +104,8 @@ teacher.register_tutorial("teacher_tutorial_wfc:wfc", {
                 "about a Wikipedia incident, @1", "https://w.wiki/KJS4"
             ),
             S("Learn more: @1", WFC_WIKILINK),
+            S("THE LIST OF THE ONE HUNDRED AND SIXTY-EIGHT VICTIMS OF THE FIRE:"),
+            table.concat(dofile(MP .. "/data/victims_list.lua"), "\n"),
         },
     },
 })
